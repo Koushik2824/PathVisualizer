@@ -468,7 +468,7 @@ export default class PathfindingVisualizer extends Component {
   <div class="card-body">
     <h5 class="card-title">BFS Algorithm</h5>
     <p class="card-text">BFS is a traversing algorithm where you should start traversing from a selected node (source or starting node) and traverse the graph layerwise thus exploring the neighbour nodes (nodes which are directly connected to source node). You must then move towards the next-level neighbour nodes.</p>
-    <a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/" target="_blank" class="btn btn-primary">For more</a>
+    <a href="https://www.hackerearth.com/practice/algorithms/graphs/breadth-first-search/tutorial/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">For more</a>
   </div>
   </div>
   <div class="card" style={{width:"50rem",margin:"2px auto"}}>
@@ -476,7 +476,7 @@ export default class PathfindingVisualizer extends Component {
   <div class="card-body">
     <h5 class="card-title">DFS Algorithm</h5>
     <p class="card-text"> All the nodes will be visited on the current path till all the unvisited nodes have been traversed after which the next path will be selected.</p>
-    <a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/" target="_blank" class="btn btn-primary">For more</a>
+    <a href="https://www.hackerearth.com/practice/algorithms/graphs/depth-first-search/tutorial/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">For more</a>
   </div>
   </div>
   <div class="card" style={{width:"50rem"}}>
@@ -484,7 +484,7 @@ export default class PathfindingVisualizer extends Component {
   <div class="card-body">
     <h5 class="card-title">Dijkstra Algorithm</h5>
     <p class="card-text"> The algorithm keeps track of the currently known shortest distance from each node to the source node and it updates these values if it finds a shorter path.</p>
-    <a href="https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/" target="_blank" class="btn btn-primary">For more</a>
+    <a href="https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/" target="_blank" rel="noopener noreferrer" class="btn btn-primary">For more</a>
   </div>
   </div>
   </div>
