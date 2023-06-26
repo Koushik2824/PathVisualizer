@@ -1,0 +1,31 @@
+.grid-container {
+    margin: 1% auto;
+    border:3px solid rgb(31, 28, 28);
+}
+.btnsp{
+    background-color: rgb(255, 207, 207);
+}
+.navv{
+    color: rgb(249, 249, 249);
+    font-weight:bolder;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: darkorchid;
+    height : 70px;
+    margin:auto;
+    padding-left: 37%;
+}
+button {
+    margin: 5px;
+}
+.btntext{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 1px;
+}
+.gd{
+    padding:1px;
+}
+.card{
+    margin:auto;
+}
+
+
