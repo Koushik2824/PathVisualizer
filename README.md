@@ -1,3 +1,6 @@
+Deployed on netlify  
+Open [Koushik2824.netlify.app](https://master--bucolic-choux-5b35f8.netlify.app)  to view it in browser
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
