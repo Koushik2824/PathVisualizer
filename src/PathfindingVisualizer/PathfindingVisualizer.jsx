@@ -480,7 +480,7 @@ export default class PathfindingVisualizer extends Component {
   </div>
   </div>
   <div class="card" style={{width:"50rem"}}>
-  <img class="card-img-top" src={require("/Users/koushikmukka/pathfindingvisualizer2/src/PathfindingVisualizer/DFS.jpg.webp")} alt="bfs"/>
+  <img class="card-img-top" src={require("/Users/koushikmukka/pathfindingvisualizer2/src/PathfindingVisualizer/dijkstra.png")} alt="bfs"/>
   <div class="card-body">
     <h5 class="card-title">Dijkstra Algorithm</h5>
     <p class="card-text"> The algorithm keeps track of the currently known shortest distance from each node to the source node and it updates these values if it finds a shorter path.</p>
